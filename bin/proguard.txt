@@ -1,0 +1,21 @@
+# view res/layout/ml_select_dialog.xml #generated:2
+# view res/layout/ml_select_dialog_center.xml #generated:24
+-keep class com.xiaomi.smarthome.common.ui.dialog.MLAlertController$RecycleListView { <init>(...); }
+
+# view res/layout/xq_progress_dialog.xml #generated:23
+-keep class com.xiaomi.smarthome.common.ui.widget.CustomCircleProgressBar { <init>(...); }
+
+# view res/layout/time_picker.xml #generated:16
+# view res/layout/time_picker.xml #generated:27
+# view res/layout/time_picker.xml #generated:38
+-keep class com.xiaomi.smarthome.common.ui.widget.NumberPicker { <init>(...); }
+
+# view res/layout/numberpicker_layout.xml #generated:10
+-keep class com.xiaomi.smarthome.common.ui.widget.NumberPicker$CustomEditText { <init>(...); }
+
+# view res/layout/ml_select_dialog_singlechoice.xml #generated:2
+-keep class com.xiaomi.smarthome.common.ui.widget.SingleCheckLinearLayout { <init>(...); }
+
+# view res/layout/menu_dialog_slidebtn_item.xml #generated:19
+-keep class com.xiaomi.smarthome.common.ui.widget.SwitchButton { <init>(...); }
+
